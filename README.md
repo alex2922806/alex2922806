@@ -11,7 +11,7 @@ I design and evolve fault-tolerant production architectures with strong emphasis
 
 ---
 
-# 🚀 Core Stack (High-Load Oriented)
+# 🚀 Core Stack
 
 <p>
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
